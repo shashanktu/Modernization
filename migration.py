@@ -12,7 +12,7 @@ def extract_javascript(text):
 # Function to convert VBScript code to JavaScript
 # def convert_vbscript_to_javascript(vbscript):
 #     # Conversion patterns
-#         genai.configure(api_key='AIzaSyDE8a285hL5J0lR7B1pxWOdY5GTlb51pjw')
+#         genai.configure(api_key='Your-API-Key')
 #         model = genai.GenerativeModel('gemini-1.5-flash-8b')  
 #         prompt = f"""
 #     You are a developer assistant helping convert VBScript code to JavaScript. Please carefully translate the following VBScript code into its JavaScript equivalent. ***Be as accurate and clear as possible without any comments or content as i am directly the pasting the generated code into a file:***
